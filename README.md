@@ -2,4 +2,4 @@
 Just a File.
 
 ## 0529
-hoge
+GitHubにて情報を書き換えました．IDのMcro-softは，某SNSアカウントに同じです．
